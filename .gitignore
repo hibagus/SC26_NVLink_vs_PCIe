@@ -1,1 +1,2 @@
 data_nsight_trace/traces
+data_mlperf_trace/*tar.gz
