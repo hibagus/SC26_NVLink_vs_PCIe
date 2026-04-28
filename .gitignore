@@ -1,2 +1,3 @@
 data_nsight_trace/traces
 data_mlperf_trace/*tar.gz
+code/MLPerf_Docker_Image/*tar.gz*
