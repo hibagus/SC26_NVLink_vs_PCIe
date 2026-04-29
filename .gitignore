@@ -2,3 +2,5 @@ data_nsight_trace/traces
 data_mlperf_trace/*tar.gz
 code/MLPerf_Docker_Image/*tar.gz*
 code/MLPerf_Scratch/model/Llama2
+code/MLPerf_Scratch/data/llama2-70b
+code/MLPerf_Scratch/preprocessed_data/llama2-70b
