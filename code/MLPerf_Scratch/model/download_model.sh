@@ -1,5 +1,6 @@
 #!/bin/bash
 mkdir -p Llama2
+mkdir -p LLama2/fp8-quantized-modelopt
 
 # Download from Zenodo
 echo "Downloading part 1 of 3..."
